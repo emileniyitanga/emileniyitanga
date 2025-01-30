@@ -4,7 +4,7 @@ Graduate Mechanical Engineer and Data Scientist
 ---
 
 ### Hi there 👋
-I am Emile NIYITANGA, a Graduate **Mechanical Engineer** and **Data Scientist.**
+I am Emile NIYITANGA, a Graduate **Mechanical Engineer with Specialisation in Production and Manufacturing Engineering** and **Data Scientist.**
 
 #### **Mechanical Engineering Skills**  
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-blue?style=flat-square&logo=autodesk&logoColor=white)  
