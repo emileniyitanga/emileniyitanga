@@ -15,6 +15,8 @@ I am Emile NIYITANGA, a Graduate **Mechanical Engineer with Specialisation in Pr
 ![Computational Fluid Dynamics (CFD)](https://img.shields.io/badge/-CFD-lightblue?style=flat-square)  
 ![Thermodynamics](https://img.shields.io/badge/-Thermodynamics-purple?style=flat-square)  
 ![Mechanical Design](https://img.shields.io/badge/-Mechanical%20Design-orange?style=flat-square)  
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-blue?style=flat-square&logo=autodesk&logoColor=white) ![SolidWorks](https://img.shields.io/badge/-SolidWorks-red?style=flat-square&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat-square&logo=mathworks&logoColor=white) ![ANSYS](https://img.shields.io/badge/-ANSYS-green?style=flat-square) ![Finite Element Analysis (FEA)](https://img.shields.io/badge/-FEA-blue?style=flat-square) ![Computational Fluid Dynamics (CFD)](https://img.shields.io/badge/-CFD-lightblue?style=flat-square) ![Thermodynamics](https://img.shields.io/badge/-Thermodynamics-purple?style=flat-square) ![Mechanical Design](https://img.shields.io/badge/-Mechanical%20Design-orange?style=flat-square)
+
 
 
 #### **Data Science Skills**  
