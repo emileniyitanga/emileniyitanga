@@ -6,15 +6,15 @@ Graduate Mechanical Engineer and Data Scientist
 ### Hi there 👋
 I am Emile NIYITANGA, a Graduate Mechanical Engineer and Data Scientist.
 ### Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/-React%20Router-red?style=flat-square&logo=react-router&logoColor=white)
+![Routine Maintenance]
+![Trouble Shooting and Repairs](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
+![Equipment Installation and Commissioning](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
+![Safety Compliance](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js&logoColor=white)
+![R](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
+![Bash Script Shelling](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)
+![Latex](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-React%20Router-red?style=flat-square&logo=react-router&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-blue?style=flat-square&logo=mui&logoColor=white)
 ![Progressive Web Apps](https://img.shields.io/badge/-Progressive%20Web%20Apps-green?style=flat-square)
 ![Storybook](https://img.shields.io/badge/-Storybook-pink?style=flat-square&logo=storybook&logoColor=white)
