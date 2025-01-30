@@ -1,13 +1,10 @@
 # Emile NIYITANGA
-Graduate Mechanical Engineer
+Graduate Mechanical Engineer and Data Scientist
 
 ---
 
 ### Hi there 👋
-I am Emile NIYITANGA, a Senior Front-End Engineer based in Berlin at Dizrbo GmbH. I have around 10 years of experience in full-stack web development, but I have worked professionally as a Front-End Engineer since 2021. To see my profile in detail, I recommend looking at my [LinkedIn](https://linkedin.com), [Medium](https://medium.com), or [Stack Overflow](https://stackoverflow.com) profiles.
-
----
-
+I am Emile NIYITANGA, a Graduate Mechanical Engineer and Data Scientist.
 ### Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
@@ -39,30 +36,14 @@ I am Emile NIYITANGA, a Senior Front-End Engineer based in Berlin at Dizrbo GmbH
 
 ---
 
-### Top Blog Posts
-- [Frontend Testing Techniques](#)
-- [8 React Open-Source Projects to Learn and Become a React.js Developer](#)
-- [Understand NFT in Simple Words](#)
-- [Journey to Become a Blockchain Developer](#)
-- [Are We in NFT Bubble?](#)
-
 ---
 
-### Stats
-#### Muhammad Adeel’s GitHub Stats:
-- **Total Stars Earned**: 5  
-- **Total Commits**: 334  
-- **Total PRs**: 0  
-- **Total Issues**: 0  
-- **Contributed to**: 0  
-
-![Overall Grade](https://img.shields.io/badge/-A%2B-green?style=for-the-badge)
 
 ---
 
 ### Most Used Languages
-- **JavaScript**: 57.97%  
-- **Java**: 20.34%  
-- **PHP**: 4.97%  
-- **CSS**: 4.0%  
-- **TypeScript**: 2.82%  
+- **Python**: 57.97%  
+- **R**: 20.34%  
+- **Bash Script Shelling**: 4.97%  
+- **Julia**: 4.0%  
+- **C-Programming**: 2.82%  
