@@ -1,5 +1,5 @@
 # Emile NIYITANGA
-Graduate Mechanical Engineer and Data Scientist
+**Graduate Mechanical Engineer and Data Scientist**
 
 ---
 
