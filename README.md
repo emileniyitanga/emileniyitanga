@@ -16,6 +16,59 @@ I am Emile NIYITANGA, a Graduate **Mechanical Engineer with Specialisation in Pr
 
 ---
 
+
+Graduate student in Mathematical Sciences (Data Science) at AIMS Rwanda  
+Former Mechanical Engineering Intern at CIMERWA Plc  
+Passionate about data-driven solutions for clean energy, mobility, and sustainable development
+
+---
+
+## Technical Skills
+
+- **Languages**: Python, R, SQL  
+- **Data Engineering**: PySpark, Spark MLlib, multiprocessing  
+- **Machine Learning**: Logistic Regression, Random Forest, GBT, CNNs  
+- **Tools**: Jupyter, Git, Tableau, Airflow (familiar), VS Code  
+- **Big Data**: Spark, Hadoop (basic), 12–16GB-scale processing  
+- **Visualization**: Matplotlib, Seaborn, custom dashboards
+
+---
+
+## Projects
+
+### 🔹 Predictive Modeling of Early Marriages  
+Used a 16GB socio-demographic dataset with Spark MLlib. Achieved 80%+ accuracy using ensemble ML algorithms. Designed scalable feature engineering and evaluation pipeline.
+
+### 🔹 Telecom Mobility Profiling  
+Processed over 12GB of CDR & GPS data using PySpark. Generated spatial metrics to understand mobility patterns. Optimized Spark workflows for low-resource environments.
+
+### 🔹 Deep Learning with DNA and Fashion-MNIST  
+Built CNNs using PyTorch for biological sequence classification and image recognition. Applied regularization and data augmentation.
+
+### 🔹 Industrial Systems Optimization (CIMERWA Plc)  
+Performed maintenance optimization and operational analysis. Proposed efficiency improvements, earning 94–99% evaluations for technical initiative and reliability.
+
+---
+
+## Currently Learning
+
+- Energy optimization models  
+- Real-time analytics pipelines  
+- MLOps & data pipeline automation (Airflow, MLflow)  
+- Advanced geospatial analysis
+
+---
+
+## Get in Touch
+
+- Email: emile.niyitanga@aims.ac.rw  
+- Location: Kigali, Rwanda  
+- [LinkedIn](https://www.linkedin.com/in/emile-niyitanga) *(insert actual link)*  
+
+---
+
+_"Driven by data. Inspired by purpose. Committed to impact."_
+
 ---
 
 
@@ -27,3 +80,4 @@ I am Emile NIYITANGA, a Graduate **Mechanical Engineer with Specialisation in Pr
 - **Bash Script Shelling**: 4.97%  
 - **Julia**: 4.0%  
 - **C-Programming**: 2.82%  
+
