@@ -63,7 +63,7 @@ Performed maintenance optimization and operational analysis. Proposed efficiency
 
 - Email: emile.niyitanga@aims.ac.rw  
 - Location: Kigali, Rwanda  
-- [LinkedIn](https://www.linkedin.com/in/emile-niyitanga) *(insert actual link)*  
+- [LinkedIn](https://www.linkedin.com/in/emile-niyitanga-570699361/)
 
 ---
 
